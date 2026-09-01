@@ -1,4 +1,4 @@
---|| CAT HUB ~ v10 ~ By Odecode ||--
+--|| CAT HUB ~ v10 ~ By catjack.gg ||--
 local TweenService = game:GetService("TweenService")
 local Players = game:GetService("Players")
 local UserInputService = game:GetService("UserInputService")
