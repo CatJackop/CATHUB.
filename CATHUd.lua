@@ -1,15 +1,7 @@
 -- ============================================================================
--- CAT HUB - INFORMATION / SAFETY NOTES
+-- CAT HUB - 
 -- ============================================================================
--- This information section was added without changing the existing script logic.
--- Existing code below remains unchanged.
---
--- General notes:
--- * Keep the original script structure and existing settings intact.
--- * Changes to gameplay behavior should be made only in the relevant feature section.
--- * If a feature uses a radius value, increasing the radius affects how far it scans.
--- * This file is provided as a text script; execution depends on the Roblox environment
---   and whether the code is intended for a LocalScript or server Script.
+-- 
 -- ============================================================================
 
 do
