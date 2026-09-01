@@ -1,4 +1,4 @@
---|| Happy Hub ~ v10 ~ By Odecode ||--
+--|| CAT HUB ~ BY catjack.gg ||--
 local TweenService = game:GetService("TweenService")
 local Players = game:GetService("Players")
 local UserInputService = game:GetService("UserInputService")
