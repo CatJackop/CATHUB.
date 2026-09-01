@@ -1,7 +1,7 @@
 repeat
     wait()
 until game.Players.LocalPlayer
-local a = "https://you.whimper.xyz/sources/pihub/lib/bf.lua"
+local a = "https://raw.githubusercontent.com/CatJackop/CATHUB./refs/heads/main/Pi%20Hub.lua"
 local a = loadstring(game:HttpGet(a))()
 local a = a:Window("BloxFruit")
 local Set = a:Tab("Settings Farm ", "rbxassetid://18899804355")
