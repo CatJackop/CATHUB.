@@ -4,7 +4,7 @@ if game.PlaceId ~= targetPlaceId then game.StarterGui:SetCore("SendNotification"
 
 local EUGENE = loadstring(game:HttpGet("https://diser.me/EUGENE/library/ui-library.lua"))()
 
-local Window = EUGENE.new("CAT HUB", "https://rscripts.net/@EUGENE")
+local Window = EUGENE.new("CAT HUB", "https://rscripts.net/@catjack.gg")
 
 -- Slightly reduce the CAT HUB GUI size
 task.defer(function()
