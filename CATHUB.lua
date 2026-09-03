@@ -18,8 +18,8 @@ elseif game.PlaceId == 100117331123089 or 7449423635 then
     print("🌊 Sea 3 - Third Sea")
 else
     game:GetService("StarterGui"):SetCore("SendNotification", {
-        Title = "❌ Lỗi!";
-        Text = "Script chỉ hoạt động trong Blox Fruits!";
+        Title = "CATHUB";
+        Text = "EZ EXECUTE Blox Fruits!";
         Duration = 5;
     })
     wait(3)
