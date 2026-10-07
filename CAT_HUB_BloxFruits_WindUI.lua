@@ -1,6 +1,3 @@
--- Decompiled from MoonSec V3 (bytecode -> unluac -> beautifier)
--- By ZeroVector101
-
 local v52 = ""
 local HttpService = game:GetService("HttpService")
 local function fn()
